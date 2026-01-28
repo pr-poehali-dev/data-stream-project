@@ -19,8 +19,8 @@ export default function Hero() {
         className="absolute inset-0 w-full h-full"
       >
         <img
-          src="/images/mountain-landscape.jpg"
-          alt="Mountain landscape"
+          src="https://cdn.poehali.dev/projects/8520e5ec-fb99-4385-8476-f5f4799048a9/files/943f64c3-b137-4efb-a3ee-017a98f1f141.jpg"
+          alt="Tanjiro Kamado on mountain peak"
           className="w-full h-full object-cover"
         />
       </motion.div>
